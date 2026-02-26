@@ -1,25 +1,32 @@
 ---
 slug: /
-title: Codex 使用指南
-description: 在 docs-workspace 中使用和维护 Codex 文档站点的完整说明。
+title: OpenAI Codex 文档
+description: OpenAI Codex 官方文档中文翻译版
+sidebar_position: 1
 ---
 
-# Codex 使用指南
+# OpenAI Codex 文档
 
-本页是 `content/codex` 站点的入口文档。
+**Codex** 是 OpenAI 为软件开发打造的编程智能体，已内置于 ChatGPT Plus、Pro、Business、Edu 和 Enterprise 方案中。
 
-如果你希望快速上手，请先阅读：
+## 文档导航
 
-- [Codex 详细使用方法与术语翻译](./usage-guide.md)
-- [Codex App Settings 中英对照（详细）](./app-settings-bilingual.md)
-- [Codex 使用手册（详细版）](./user-manual-detailed.md)
+### 快速开始
 
-该文档包含：
+- [产品概览](./overview) — Codex 的核心能力与介绍
+- [快速入门](./quickstart) — 4 种使用方式，5 分钟上手
+- [示例探索](./explore) — 实际用例与启发提示
 
-- 本地运行与构建命令
-- 目录结构说明
-- 新增文档与发布流程
-- 常见问题排查
-- 英文术语对应中文翻译表
-- App Setting 分项中英翻译
-- 从安装到日常使用的完整手册
+### 使用 Codex
+
+- [Codex App](./app) — macOS 桌面端命令中枢
+- [命令行工具 (CLI)](./cli) — 终端直接调用 Codex
+
+### 深入了解
+
+- [核心概念与提示指南](./concepts) — 线程管理、上下文与提示技巧
+- [定价方案](./pricing) — 各套餐价格与额度对比
+
+---
+
+> 本文档翻译自 [developers.openai.com/codex](https://developers.openai.com/codex)，内容以官方英文版为准。
